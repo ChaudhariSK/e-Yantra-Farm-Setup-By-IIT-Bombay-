@@ -1,0 +1,2 @@
+# e-Yantra-Farm-Setup-By-IIT-Bombay-
+This project is about making the farming process automated, improved and easy by using IOT. Our team has created a system that checks the water level of the soil and provides water to the plants by regulating the water pump automatically. all the data of the system is stored on the server and we can operate the water pump from a remote location through internet connectivity using the mobile phone.
